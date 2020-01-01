@@ -13,7 +13,6 @@ end
 #end
 
 
-  x = array[0]
   array.length.times { |index|
    if array[index] > x 
     x = array[index]
