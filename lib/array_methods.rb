@@ -19,5 +19,5 @@ def find_min_value(array)
    min = array[index]
    end
   end
-  x
+  min
 end
